@@ -1,13 +1,20 @@
-# Emma's Repository
+# Project Title
 
-### hello
+## Badges *DOI, compliance with community standards*
 
-*hello*
+## What the project is about - *description of project*
 
-**hello**
+### Problem
 
-:smile:
+### Solution
 
-[hello](internet address)
+## Who we are
 
-!image()
+## How you contact us
+
+## Contributing
+* *Add links to contributing and code of conduct file*
+
+## Acknolwedgements
+
+## How to cite
